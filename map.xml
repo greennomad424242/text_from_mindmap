@@ -1,75 +1,187 @@
 <?xml version="1.0"?>
-  <root>
-    <mxCell id="0"/>
-    <mxCell id="1" parent="0"/>
-    <UserObject label="book" treeRoot="1" id="FppH65uxrcL7wk5XnBWe-1">
-      <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;container=1;recursiveResize=0;fillColor=none;" parent="1" vertex="1">
-        <mxGeometry x="110" y="140" width="120" height="60" as="geometry"/>
-      </mxCell>
-    </UserObject>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" parent="1" source="FppH65uxrcL7wk5XnBWe-1" target="FppH65uxrcL7wk5XnBWe-3" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="250" y="170" as="sourcePoint"/>
-      </mxGeometry>
+<root>
+  <mxCell id="0"/>
+  <mxCell id="1" parent="0"/>
+  <UserObject label="overview 3dViz" treeRoot="1" id="gHReWdxfJyFHyzUZcx94-1">
+    <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;container=1;recursiveResize=0;fillColor=none;" parent="1" vertex="1">
+      <mxGeometry x="58" y="572" width="120" height="60" as="geometry"/>
     </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-3" value="chap 1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="1" vertex="1">
-      <mxGeometry x="307" y="105" width="80" height="30" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="FppH65uxrcL7wk5XnBWe-1" target="FppH65uxrcL7wk5XnBWe-5" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="270" y="265" as="sourcePoint"/>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-5" value="chap 2" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="1" vertex="1">
-      <mxGeometry x="327" y="200" width="80" height="30" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-6" value="section 1.1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
-      <mxGeometry x="530" y="20" width="90" height="20" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="FppH65uxrcL7wk5XnBWe-3" target="FppH65uxrcL7wk5XnBWe-6" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="490" y="100" as="sourcePoint"/>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-8" value="section 1.2" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
-      <mxGeometry x="567" y="120" width="90" height="20" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="FppH65uxrcL7wk5XnBWe-3" target="FppH65uxrcL7wk5XnBWe-8" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="527" y="160" as="sourcePoint"/>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-10" value="section 2.1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
-      <mxGeometry x="600" y="200" width="90" height="20" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" parent="1" source="FppH65uxrcL7wk5XnBWe-5" target="FppH65uxrcL7wk5XnBWe-10" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="560" y="240" as="sourcePoint"/>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-12" value="section 2.2" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
-      <mxGeometry x="555" y="260" width="90" height="20" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="FppH65uxrcL7wk5XnBWe-5" target="FppH65uxrcL7wk5XnBWe-12" edge="1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="515" y="300" as="sourcePoint"/>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-15" value="&lt;span&gt;1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" vertex="1" parent="1">
-      <mxGeometry x="760" width="370" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;entryX=0.003;entryY=0;entryPerimeter=0;" edge="1" target="FppH65uxrcL7wk5XnBWe-15" parent="1" source="FppH65uxrcL7wk5XnBWe-6">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="670" y="60" as="sourcePoint"/>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-17" value="2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ojk" style="whiteSpace=wrap;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;html=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-      <mxGeometry x="770" y="40" width="530" height="90" as="geometry"/>
-    </mxCell>
-    <mxCell id="FppH65uxrcL7wk5XnBWe-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=1;exitX=1;exitY=1;" edge="1" parent="1" source="FppH65uxrcL7wk5XnBWe-6" target="FppH65uxrcL7wk5XnBWe-17">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="620" y="80" as="sourcePoint"/>
-        <mxPoint x="771" y="10" as="targetPoint"/>
-      </mxGeometry>
-    </mxCell>
-  </root>
+  </UserObject>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-7" value="Looking at individual rows of data" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=14;" parent="1" vertex="1" visible="0">
+    <mxGeometry x="770" y="255" width="220" height="30" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-8" value="Looking at max, mins and other statistics&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=15;" parent="1" vertex="1" visible="0">
+    <mxGeometry x="770" y="295" width="200" height="40" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1.003;exitY=0.743;exitPerimeter=0;entryX=0;entryY=0.414;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-4" target="O3UHbDxIHgIvfHBMtrS7-7" edge="1" visible="0">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="167" y="131" as="sourcePoint"/>
+      <mxPoint x="275" y="100" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1.007;exitY=0.714;exitPerimeter=0;entryX=-0.01;entryY=0.4;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-4" target="O3UHbDxIHgIvfHBMtrS7-8" edge="1" visible="0">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="731" y="287" as="sourcePoint"/>
+      <mxPoint x="780" y="277" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-11" value="Abscombe quartet" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1" visible="0">
+    <mxGeometry x="1030" y="320" width="130" height="20" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-8" target="O3UHbDxIHgIvfHBMtrS7-11" edge="1" visible="0">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="990" y="360" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-13" value="Graphing in Tableau or other viz tools&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=15;" parent="1" vertex="1" visible="0">
+    <mxGeometry x="780" y="366" width="200" height="40" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.714;exitPerimeter=0;entryX=0;entryY=0.55;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-4" target="O3UHbDxIHgIvfHBMtrS7-13" edge="1" visible="0">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="732" y="285" as="sourcePoint"/>
+      <mxPoint x="778" y="321" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-16" value="Complex, but less complex than looking at the raw data.&amp;nbsp; Incremental tool, not savior" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="430" y="658.5" width="233" height="63" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=0.002;entryY=0.254;entryPerimeter=0;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-16" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="420" y="500" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-18" value="3D viz enables that exploration&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=13;" parent="1" vertex="1">
+    <mxGeometry x="430" y="511" width="215" height="36" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=0.009;entryY=0.279;entryPerimeter=0;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-18" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="170" y="160" as="sourcePoint"/>
+      <mxPoint x="431" y="379" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-23" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="438" y="740" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-23" value="How to use&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="440" y="858.5" width="98" height="26" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-27" value="Using some Javascript libraries, I built a quick tool to parse and view &quot;many-to-many&quot; datasets and show them in three dimensions. (Many-to-many datasets might include:&amp;nbsp; transactions between countries, social networks, or website traffic.)" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=12;" parent="1" vertex="1">
+    <mxGeometry x="724" y="423.5" width="282" height="91" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=1;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-18" target="O3UHbDxIHgIvfHBMtrS7-27" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="693" y="569" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-29" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;The &quot;creator&quot; version of this tool is used to parse and filter raw datasets.&amp;nbsp; It isn&#39;t ready for public release, but I wanted to show some data in the &quot;viewer&quot; version.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="737" y="533" width="274" height="78" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0.967;exitY=1.028;exitPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-18" target="O3UHbDxIHgIvfHBMtrS7-29" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="755" y="614" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-31" value="Tableau, PowerBI and other tools are great for some data visualization, but I wanted to use some newer tools to better visualize multi-dimensional data." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=13;" parent="1" vertex="1">
+    <mxGeometry x="723" y="349" width="249" height="52" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=0.002;entryY=0.192;entryPerimeter=0;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-31" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="700" y="749" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-33" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-34" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="442" y="841" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-34" value="Other tools" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="523" y="1155.5" width="94" height="26" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;When hosted in a standalone website, this visualization can be embedded in Tableau or other tool.&amp;nbsp; This would help tell the story more comprehensively.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=12;" parent="1" vertex="1">
+    <mxGeometry x="737" y="1070" width="364" height="64" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=-0.002;entryY=0.411;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-45" target="O3UHbDxIHgIvfHBMtrS7-35" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="655" y="822" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-39" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1.011;exitY=0.897;exitPerimeter=0;entryX=0.001;entryY=0.459;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-16" target="O3UHbDxIHgIvfHBMtrS7-24" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="715" y="721" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-40" value="Be sure to click around the viz and zoom around." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="742" y="835" width="287" height="18" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-23" target="O3UHbDxIHgIvfHBMtrS7-40" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="581" y="817.5" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-42" value="This was made with &amp;lt;a href=&quot;https://github.com/vasturiano/3d-force-graph&quot;&amp;gt;3d-force-graph&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://gmousse.gitbooks.io/dataframe-js/content/doc/api/dataframe.html&quot;&amp;gt;Dataframe.js&amp;lt;/a&amp;gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="742" y="1013" width="344" height="47" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-43" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=-0.005;entryY=0.576;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-45" target="O3UHbDxIHgIvfHBMtrS7-42" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="593" y="955" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-44" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-45" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="433.5" y="886" as="sourcePoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-45" value="Made with" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="444" y="975.5" width="90" height="26" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-46" value="You can click the &quot;rotation&quot; button and see the structure rotate.&amp;nbsp; if you&#39;ve moused around already, you might want to hit reload before using the rotation functionality." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="723" y="865" width="359" height="69" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=1;exitX=1;exitY=0.5;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-23" target="O3UHbDxIHgIvfHBMtrS7-46" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="548" y="808.5" as="sourcePoint"/>
+      <mxPoint x="612" y="868.5" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-24" value="You can see that this view represents a lot of complex data in its entirety.&amp;nbsp; &amp;nbsp;This isn&#39;t meant to be something that I drop into an executive&#39;s Powerpoint and walk away.&amp;nbsp; &amp;nbsp; This is more of a working tool that I can use to use to explore the data. Any insights I discover would be distilled into more accessible line charts or other&amp;nbsp; visualizations.&lt;br&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="731" y="642.5" width="309" height="123" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-25" value="Since this is built with Javascript, there are dozens of other frameworks that can probably show a similar view.&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="723" y="1155.5" width="375" height="40" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-26" value="There is also great tooling available in Python.&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=1;treeFolding=1;spacingLeft=14;" parent="1" vertex="1">
+    <mxGeometry x="720.5" y="1208.5" width="227" height="46" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-37" value="I&#39;ll continue to evolve this tool and other projects.&amp;nbsp; Feel free to hit me up on &amp;lt;a href=&quot;https://www.linkedin.com/in/matthowes/&quot;&amp;gt;LinkedIn&amp;lt;/a&amp;gt;." style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=left;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;" parent="1" vertex="1">
+    <mxGeometry x="723" y="1300" width="390" height="70" as="geometry"/>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.008;entryY=0.108;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-45" target="O3UHbDxIHgIvfHBMtrS7-38" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="548" y="881.5" as="sourcePoint"/>
+      <mxPoint x="611.8965517241379" y="868.1724137931035" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=-0.001;entryY=0.444;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-34" target="O3UHbDxIHgIvfHBMtrS7-25" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="544.3103448275863" y="1091.0172413793105" as="sourcePoint"/>
+      <mxPoint x="642.9310344827586" y="1086.8793103448277" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0.001;entryY=0.407;entryPerimeter=0;" parent="1" source="O3UHbDxIHgIvfHBMtrS7-34" target="O3UHbDxIHgIvfHBMtrS7-26" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="551.8965517241379" y="1144.8103448275863" as="sourcePoint"/>
+      <mxPoint x="636.7241379310344" y="1168.2586206896551" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;entryX=0.003;entryY=0.287;entryPerimeter=0;" parent="1" source="gHReWdxfJyFHyzUZcx94-1" target="O3UHbDxIHgIvfHBMtrS7-37" edge="1">
+    <mxGeometry relative="1" as="geometry">
+      <mxPoint x="187.75862068965523" y="612.3103448275863" as="sourcePoint"/>
+      <mxPoint x="458" y="1079.4999999999998" as="targetPoint"/>
+    </mxGeometry>
+  </mxCell>
+  <mxCell id="O3UHbDxIHgIvfHBMtrS7-38" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;This is an alpha version that is cheaply hosted on GitHub pages.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=top;routingCenterY=0.5;snapToPoint=1;container=1;recursiveResize=0;autosize=0;treeFolding=1;spacingLeft=12;" parent="1" vertex="1">
+    <mxGeometry x="737" y="945" width="274" height="49" as="geometry"/>
+  </mxCell>
+</root>
